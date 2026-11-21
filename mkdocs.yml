@@ -1,0 +1,6 @@
+site_name: Minimalist Kitchen Design Docs
+site_url: https://minimalist-kitchen-design-docs.readthedocs.io/
+repo_url: https://github.com/rajaumairhamza/minimalist-kitchen-design-docs
+theme: readthedocs
+nav:
+  - Home: index.md
